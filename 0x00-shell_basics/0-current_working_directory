@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo pwd\n
+echo 'pwd'\n
 
 
 
